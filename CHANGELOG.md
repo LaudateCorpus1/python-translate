@@ -4,6 +4,18 @@
 
 [1]: https://pypi.org/project/google-cloud-translate/#history
 
+## [3.7.0](https://github.com/googleapis/python-translate/compare/v3.6.1...v3.7.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#329](https://github.com/googleapis/python-translate/issues/329)) ([4b08cd5](https://github.com/googleapis/python-translate/commit/4b08cd56ce230b843ced78a3f81c2e6511ac2a4f))
+
+
+### Bug Fixes
+
+* 290 added a create glossary line before each call using bistro-glossary ([#302](https://github.com/googleapis/python-translate/issues/302)) ([742e414](https://github.com/googleapis/python-translate/commit/742e414ad8ac83e4116c67740a42e264a63e3287))
+
 ### [3.6.1](https://www.github.com/googleapis/python-translate/compare/v3.6.0...v3.6.1) (2021-11-04)
 
 
